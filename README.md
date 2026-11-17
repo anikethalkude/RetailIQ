@@ -53,6 +53,10 @@ The dataset contains historical e-commerce information, including orders, custom
 8. **Dashboard Development:** Present analytical results using Power BI.
 9. **Pipeline Automation:** Execute the major processing stages through one Python command.
 
+### Architecture Diagram
+
+![RetailIQ Architecture](docs/retailiq_architecture.png)
+
 ## Machine Learning and Forecasting
 
 The forecasting component focuses on five major product categories:
