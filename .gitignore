@@ -1,0 +1,25 @@
+
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+
+# Raw dataset
+data/raw/
+
+# Generated model files
+models/*.pkl
+models/*.joblib
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+

@@ -1,0 +1,32 @@
+=======================================================
+RETAILIQ - AI BUSINESS INSIGHTS ENGINE
+=======================================================
+
+1. CATEGORY PERFORMANCE
+- Highest demand category: bed_bath_table with 11,115 items.
+- Highest revenue category: health_beauty with revenue of 1,258,681.34.
+
+2. HISTORICAL DEMAND
+- Latest historical monthly demand changed by -99.99% compared with the previous month.
+
+3. FUTURE DEMAND FORECAST
+- Total projected demand across the forecast period: 4,478 items.
+- Projected demand for October 2018: 1,800 items.
+- Projected demand for November 2018: 1,482 items.
+
+4. MODEL PERFORMANCE
+- Projected demand for December 2018: 1,196 items.
+- Random Forest has lower MAE in 1 out of 5 categories.
+- Baseline has lower MAE in 4 out of 5 categories.
+- Average Random Forest MAE: 249.97.
+- Average Baseline MAE: 188.20.
+
+5. BUSINESS RECOMMENDATIONS
+- Prioritize demand planning and inventory review for bed_bath_table.
+- Investigate the recent demand decline before adjusting inventory.
+- Monitor forecast demand for health_beauty, which has the highest projected demand.
+- The baseline has lower average MAE. Do not replace the baseline with Random Forest without further validation.
+
+=======================================================
+END OF RETAILIQ BUSINESS INSIGHTS
+=======================================================

@@ -1,0 +1,6 @@
+category,training_months,testing_months,random_forest_mae,random_forest_rmse,baseline_mae,baseline_rmse
+bed_bath_table,18,4,235.19,363.37,216.75,338.01
+health_beauty,18,4,280.88,365.07,282.5,432.57
+sports_leisure,18,4,191.15,275.82,147.5,240.72
+furniture_decor,18,4,273.94,330.2,168.75,239.15
+computers_accessories,18,4,268.71,320.09,125.5,211.61

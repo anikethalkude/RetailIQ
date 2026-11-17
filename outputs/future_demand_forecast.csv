@@ -1,0 +1,16 @@
+month,category,predicted_demand,selected_method
+2018-10-01,bed_bath_table,427.33,3-Month Moving Average
+2018-11-01,bed_bath_table,361.78,3-Month Moving Average
+2018-12-01,bed_bath_table,263.04,3-Month Moving Average
+2018-10-01,health_beauty,484.98,Random Forest
+2018-11-01,health_beauty,381.72,Random Forest
+2018-12-01,health_beauty,391.5,Random Forest
+2018-10-01,sports_leisure,314.33,3-Month Moving Average
+2018-11-01,sports_leisure,263.11,3-Month Moving Average
+2018-12-01,sports_leisure,192.48,3-Month Moving Average
+2018-10-01,furniture_decor,291.0,3-Month Moving Average
+2018-11-01,furniture_decor,241.33,3-Month Moving Average
+2018-12-01,furniture_decor,177.44,3-Month Moving Average
+2018-10-01,computers_accessories,282.0,3-Month Moving Average
+2018-11-01,computers_accessories,233.67,3-Month Moving Average
+2018-12-01,computers_accessories,171.89,3-Month Moving Average
